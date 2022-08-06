@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/yehao-zheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehao-zheng" height="30" width="40" /></a>
 <a href="https://kaggle.com/yehaozheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yehaozheng" height="30" width="40" /></a>
 </p>
-<a href="https://public.tableau.com/app/profile/yehao8392" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="app/profile/yehao8392" height="30" width="40" /></a>
+<a href="/567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="567" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
