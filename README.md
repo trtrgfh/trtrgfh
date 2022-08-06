@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/yehao-zheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yehao-zheng" height="30" width="40" /></a>
 <a href="https://kaggle.com/yehaozheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yehaozheng" height="30" width="40" /></a>
-</p>
 <a href="/567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="567" height="30" width="40" /></a>
 </p>
 
