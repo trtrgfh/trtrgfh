@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm trtrgfh</h1>
-<h3 align="center">Passionate in computer programming and data analysis</h3>
+<h3 align="center">Love computer programming and data analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trtrgfh&label=Profile%20views&color=0e75b6&style=flat" alt="trtrgfh" /> </p>
 
