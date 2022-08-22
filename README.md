@@ -24,7 +24,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn" /> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" /> </a> 
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" /> </a> </p>
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" /> </a> 
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="matplotlib" /> </a> </p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trtrgfh&theme=tokyonight&hide_border=true&" alt="trtrgfh" /></p>
